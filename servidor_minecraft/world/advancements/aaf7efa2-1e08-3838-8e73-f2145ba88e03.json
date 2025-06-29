@@ -10,6 +10,7 @@
       "minecraft:snowy_slopes": "2025-06-28 22:37:59 +0000",
       "minecraft:old_growth_pine_taiga": "2025-06-29 00:47:23 +0000",
       "minecraft:taiga": "2025-06-29 00:47:20 +0000",
+      "minecraft:birch_forest": "2025-06-29 02:06:05 +0000",
       "minecraft:beach": "2025-06-29 01:31:33 +0000",
       "minecraft:river": "2025-06-29 01:04:56 +0000",
       "minecraft:stony_shore": "2025-06-29 01:42:46 +0000",
@@ -17,6 +18,7 @@
       "minecraft:cold_ocean": "2025-06-29 01:37:12 +0000",
       "minecraft:forest": "2025-06-28 22:34:52 +0000",
       "minecraft:frozen_ocean": "2025-06-29 01:50:42 +0000",
+      "minecraft:ocean": "2025-06-29 02:05:56 +0000",
       "minecraft:frozen_peaks": "2025-06-29 01:52:11 +0000",
       "minecraft:deep_dark": "2025-06-29 01:51:33 +0000",
       "minecraft:meadow": "2025-06-28 22:37:58 +0000",
@@ -81,26 +83,34 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "silver_birch_forest": "2025-06-29 00:48:10 +0000",
+      "pine_taiga": "2025-06-29 02:06:03 +0000",
       "autumnal_maple_forest": "2025-06-29 01:15:06 +0000",
       "poppy_fields": "2025-06-29 01:21:46 +0000",
       "maple_forest": "2025-06-28 22:36:30 +0000",
       "boreal_forest": "2025-06-29 00:47:17 +0000",
+      "cold_boreal_taiga": "2025-06-29 02:09:51 +0000",
+      "temperate_grove": "2025-06-29 02:05:54 +0000",
       "cold_river": "2025-06-29 00:48:13 +0000",
       "pumpkin_fields": "2025-06-29 01:21:47 +0000",
-      "gravel_beach": "2025-06-29 01:22:35 +0000"
+      "gravel_beach": "2025-06-29 01:22:35 +0000",
+      "golden_boreal_taiga": "2025-06-29 02:08:51 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
       "silver_birch_forest": "2025-06-29 00:48:10 +0000",
+      "pine_taiga": "2025-06-29 02:06:03 +0000",
       "autumnal_maple_forest": "2025-06-29 01:15:06 +0000",
       "poppy_fields": "2025-06-29 01:21:46 +0000",
       "maple_forest": "2025-06-28 22:36:30 +0000",
       "boreal_forest": "2025-06-29 00:47:17 +0000",
+      "cold_boreal_taiga": "2025-06-29 02:09:51 +0000",
+      "temperate_grove": "2025-06-29 02:05:54 +0000",
       "cold_river": "2025-06-29 00:48:13 +0000",
       "pumpkin_fields": "2025-06-29 01:21:47 +0000",
-      "gravel_beach": "2025-06-29 01:22:35 +0000"
+      "gravel_beach": "2025-06-29 01:22:35 +0000",
+      "golden_boreal_taiga": "2025-06-29 02:08:51 +0000"
     },
     "done": false
   },
@@ -688,6 +698,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2025-06-29 02:11:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-29 00:57:31 +0000"
@@ -1177,6 +1193,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-06-29 00:56:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2025-06-29 02:11:15 +0000"
     },
     "done": true
   },
@@ -1726,6 +1748,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-06-29 02:11:15 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/light_blue_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-06-29 01:37:02 +0000"
@@ -1897,6 +1925,12 @@
   "refurbished_furniture:recipes/misc/constructing/computer": {
     "criteria": {
       "has_copper_ingot": "2025-06-29 00:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-06-29 02:11:15 +0000"
     },
     "done": true
   },
@@ -2629,6 +2663,12 @@
   "regions_unexplored:recipes/building_blocks/magenta_painted_planks": {
     "criteria": {
       "has_planks": "2025-06-29 00:57:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-06-29 02:11:15 +0000"
     },
     "done": true
   },
