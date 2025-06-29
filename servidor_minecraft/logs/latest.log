@@ -1188,3 +1188,26 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [29Jun2025 01:12:48.519] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [38, -17], pos: BlockPos{x=612, y=72, z=-272}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:redstone_bunker]
 [29Jun2025 01:12:48.519] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [38, -17], pos: BlockPos{x=614, y=72, z=-272}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:redstone_bunker]
 [29Jun2025 01:12:48.519] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [38, -17], pos: BlockPos{x=616, y=72, z=-272}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:redstone_bunker]
+[29Jun2025 01:13:06.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODQUARE110 was slain by Zombie
+[29Jun2025 01:13:07.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO was slain by Drowned
+[29Jun2025 01:13:42.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO was slain by Drowned
+[29Jun2025 01:14:12.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO was slain by Drowned
+[29Jun2025 01:15:43.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODQUARE110 has reached the goal [Feeling Watched]
+[29Jun2025 01:16:49.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODQUARE110 was slain by Sheep
+[29Jun2025 01:21:07.563] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[29Jun2025 01:21:25.038] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2478ms or 49 ticks behind
+[29Jun2025 01:22:30.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[29Jun2025 01:23:04.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2920ms or 58 ticks behind
+[29Jun2025 01:23:46.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODQUARE110 has made the advancement [The Tear Of The Man]
+[29Jun2025 01:24:05.237] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: -Azumi- lost connection: Disconnected
+[29Jun2025 01:24:05.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- left the game
+[29Jun2025 01:27:06.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODQUARE110 has made the advancement [Legendary]
+[29Jun2025 01:27:10.310] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #ctov:small_village (ctov:small/village_taiga_fortified) took 661 ms
+[29Jun2025 01:31:24.738] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODQUARE110 lost connection: Disconnected
+[29Jun2025 01:31:24.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODQUARE110 left the game
+[29Jun2025 01:31:50.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Creative Mode]
+[29Jun2025 01:32:05.104] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: -Azumi-[/127.67.69.45:35537] logged in with entity id 37756 at (-53.97718197832398, 82.0, 252.03916291615994)
+[29Jun2025 01:32:05.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- joined the game
+[29Jun2025 01:32:05.152] [Server thread/INFO] [Jade/]: Syncing config to -Azumi- (517bebbf-7cc1-34b6-bd3c-d10859929ffe)
+[29Jun2025 01:32:15.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Survival Mode]
+[29Jun2025 01:32:25.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- hit the ground too hard

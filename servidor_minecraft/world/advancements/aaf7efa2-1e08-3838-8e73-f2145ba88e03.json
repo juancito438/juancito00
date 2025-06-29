@@ -10,6 +10,7 @@
       "minecraft:snowy_slopes": "2025-06-28 22:37:59 +0000",
       "minecraft:old_growth_pine_taiga": "2025-06-29 00:47:23 +0000",
       "minecraft:taiga": "2025-06-29 00:47:20 +0000",
+      "minecraft:beach": "2025-06-29 01:31:33 +0000",
       "minecraft:river": "2025-06-29 01:04:56 +0000",
       "minecraft:grove": "2025-06-27 21:16:12 +0000",
       "minecraft:forest": "2025-06-28 22:34:52 +0000",
@@ -75,18 +76,26 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "silver_birch_forest": "2025-06-29 00:48:10 +0000",
+      "autumnal_maple_forest": "2025-06-29 01:15:06 +0000",
+      "poppy_fields": "2025-06-29 01:21:46 +0000",
       "maple_forest": "2025-06-28 22:36:30 +0000",
       "boreal_forest": "2025-06-29 00:47:17 +0000",
-      "cold_river": "2025-06-29 00:48:13 +0000"
+      "cold_river": "2025-06-29 00:48:13 +0000",
+      "pumpkin_fields": "2025-06-29 01:21:47 +0000",
+      "gravel_beach": "2025-06-29 01:22:35 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
       "silver_birch_forest": "2025-06-29 00:48:10 +0000",
+      "autumnal_maple_forest": "2025-06-29 01:15:06 +0000",
+      "poppy_fields": "2025-06-29 01:21:46 +0000",
       "maple_forest": "2025-06-28 22:36:30 +0000",
       "boreal_forest": "2025-06-29 00:47:17 +0000",
-      "cold_river": "2025-06-29 00:48:13 +0000"
+      "cold_river": "2025-06-29 00:48:13 +0000",
+      "pumpkin_fields": "2025-06-29 01:21:47 +0000",
+      "gravel_beach": "2025-06-29 01:22:35 +0000"
     },
     "done": false
   },
@@ -246,6 +255,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_maple_planks": "2025-06-29 01:16:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-06-29 00:46:11 +0000"
@@ -384,9 +399,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_hoe": "2025-06-29 01:12:34 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_lamp": {
     "criteria": {
       "has_planks": "2025-06-29 00:57:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_maple_planks": "2025-06-29 01:16:42 +0000"
     },
     "done": true
   },
@@ -456,6 +483,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_maple_planks": "2025-06-29 01:16:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-06-29 00:53:45 +0000"
@@ -495,7 +528,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:creeper": "2025-06-29 00:46:11 +0000",
-      "minecraft:zombie": "2025-06-29 00:46:10 +0000"
+      "minecraft:zombie": "2025-06-29 00:46:10 +0000",
+      "minecraft:drowned": "2025-06-29 01:10:45 +0000"
     },
     "done": false
   },
@@ -535,6 +569,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_maple_planks": "2025-06-29 01:16:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-29 00:57:31 +0000"
@@ -568,6 +608,12 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_basin": {
     "criteria": {
       "has_copper_ingot": "2025-06-29 00:46:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
+    "criteria": {
+      "has_log": "2025-06-29 01:15:07 +0000"
     },
     "done": true
   },
@@ -877,6 +923,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-06-29 01:12:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-06-29 00:56:42 +0000"
@@ -940,6 +992,12 @@
   "regions_unexplored:recipes/building_blocks/blue_painted_planks": {
     "criteria": {
       "has_planks": "2025-06-29 00:57:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2025-06-29 01:15:07 +0000"
     },
     "done": true
   },
@@ -1054,6 +1112,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_storage_jar": {
     "criteria": {
       "has_oak_planks": "2025-06-29 01:05:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_maple_planks": "2025-06-29 01:16:42 +0000"
     },
     "done": true
   },
@@ -1201,9 +1265,21 @@
     },
     "done": true
   },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "maple_log": "2025-06-29 01:15:07 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-06-29 00:57:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_trapdoor": {
+    "criteria": {
+      "has_maple_planks": "2025-06-29 01:16:42 +0000"
     },
     "done": true
   },
@@ -1327,6 +1403,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/maple_sign": {
+    "criteria": {
+      "has_maple_planks": "2025-06-29 01:16:42 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/pine_boat": {
     "criteria": {
       "in_water": "2025-06-29 01:04:54 +0000"
@@ -1384,6 +1466,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-06-29 00:57:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_hoe": "2025-06-29 01:12:34 +0000"
     },
     "done": true
   },
@@ -1477,6 +1565,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-06-29 01:12:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/pink_sofa": {
     "criteria": {
       "has_planks": "2025-06-29 00:57:31 +0000"
@@ -1522,6 +1616,18 @@
   "mca:recipes/decorations/purple_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-06-29 01:05:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_maple_planks": "2025-06-29 01:16:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2025-06-29 01:15:07 +0000"
     },
     "done": true
   },
@@ -1630,6 +1736,12 @@
   "mca:recipes/decorations/magenta_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-06-29 01:05:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_door": {
+    "criteria": {
+      "has_maple_planks": "2025-06-29 01:16:42 +0000"
     },
     "done": true
   },
@@ -1876,6 +1988,12 @@
   "refurbished_furniture:recipes/misc/constructing/television": {
     "criteria": {
       "has_copper_ingot": "2025-06-29 00:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-06-29 01:12:54 +0000"
     },
     "done": true
   },
@@ -2254,7 +2372,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "beef": "2025-06-29 01:00:35 +0000",
-      "apple": "2025-06-29 00:54:22 +0000"
+      "porkchop": "2025-06-29 01:15:55 +0000",
+      "apple": "2025-06-29 00:54:22 +0000",
+      "salmon": "2025-06-29 01:32:25 +0000",
+      "cooked_chicken": "2025-06-29 01:08:11 +0000"
     },
     "done": false
   },
