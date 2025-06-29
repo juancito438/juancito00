@@ -1224,3 +1224,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [29Jun2025 01:50:11.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Spectator Mode]
 [29Jun2025 01:50:45.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUANCITO moved too quickly! -6.058111451373861,0.06723034495114177,-8.186778246106314
 [29Jun2025 01:52:47.977] [Server thread/INFO] [journeymap/]: mp (FileLoaded) Setting config file to version "5.10.3": journeymap.server.mp.config
+[29Jun2025 01:55:40.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [Monster Hunter]
+[29Jun2025 01:59:00.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [Acquire Hardware]
+[29Jun2025 01:59:09.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [Isn't It Iron Pick]
