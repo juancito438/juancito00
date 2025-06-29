@@ -10314,3 +10314,39 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [29Jun2025 02:12:37.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Spectator Mode]
 [29Jun2025 02:13:06.858] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Jun2025 02:13:06.871] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 02:15:18.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Creative Mode]
+[29Jun2025 02:15:38.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Spectator Mode]
+[29Jun2025 02:18:06.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 02:18:06.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 02:18:14.132] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: -Azumi- lost connection: Disconnected
+[29Jun2025 02:18:14.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- left the game
+[29Jun2025 02:18:21.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set the time to 1000]
+[29Jun2025 02:18:35.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Creative Mode]
+[29Jun2025 02:19:37.080] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUANCITO lost connection: Disconnected
+[29Jun2025 02:19:37.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO left the game
+[29Jun2025 02:20:56.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[29Jun2025 02:20:56.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Jun2025 02:20:56.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Jun2025 02:20:56.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Jun2025 02:20:56.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Jun2025 02:20:56.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Jun2025 02:20:56.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Jun2025 02:20:56.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 02:20:56.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 02:20:56.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Jun2025 02:20:56.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Jun2025 02:20:56.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Jun2025 02:20:56.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[29Jun2025 02:20:56.919] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[29Jun2025 02:20:56.919] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[29Jun2025 02:20:57.041] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[29Jun2025 02:20:57.041] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[29Jun2025 02:20:57.042] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[29Jun2025 02:20:57.042] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[29Jun2025 02:20:57.044] [Server thread/INFO] [Framework/]: Unloading server configs...
+[29Jun2025 02:20:57.045] [Server thread/DEBUG] [Framework/]: Stopped watching config: /workspaces/juancito00/servidor_minecraft/config/refurbished_furniture.server.toml
+[29Jun2025 02:20:57.045] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[29Jun2025 02:20:57.047] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[29Jun2025 02:20:57.047] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[29Jun2025 02:20:57.047] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[29Jun2025 02:20:57.049] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
