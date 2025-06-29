@@ -8536,3 +8536,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [29Jun2025 01:41:28.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [Getting an Upgrade]
 [29Jun2025 01:43:04.616] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Jun2025 01:43:04.629] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 01:46:52.395] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-17, y=46, z=13} BlockPos{x=-16, y=46, z=13}
+[29Jun2025 01:48:04.623] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 01:48:04.636] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 01:50:11.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Spectator Mode]
+[29Jun2025 01:50:45.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUANCITO moved too quickly! -6.058111451373861,0.06723034495114177,-8.186778246106314
+[29Jun2025 01:52:47.977] [Server thread/INFO] [journeymap/]: mp (FileLoaded) Setting config file to version "5.10.3": journeymap.server.mp.config
+[29Jun2025 01:53:04.601] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 01:53:04.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
