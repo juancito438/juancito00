@@ -1211,3 +1211,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [29Jun2025 01:32:05.152] [Server thread/INFO] [Jade/]: Syncing config to -Azumi- (517bebbf-7cc1-34b6-bd3c-d10859929ffe)
 [29Jun2025 01:32:15.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Survival Mode]
 [29Jun2025 01:32:25.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- hit the ground too hard
+[29Jun2025 01:33:40.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Rare]
+[29Jun2025 01:33:40.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Things are different now]
+[29Jun2025 01:35:08.134] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: -Azumi- lost connection: Disconnected
+[29Jun2025 01:35:08.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- left the game
+[29Jun2025 01:36:45.893] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: -Azumi-[/127.67.69.45:60251] logged in with entity id 41028 at (-26.30000001192093, 78.0, 51.30000001192093)
+[29Jun2025 01:36:45.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- joined the game
+[29Jun2025 01:36:45.953] [Server thread/INFO] [Jade/]: Syncing config to -Azumi- (517bebbf-7cc1-34b6-bd3c-d10859929ffe)
+[29Jun2025 01:39:27.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Common]
+[29Jun2025 01:41:28.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [Getting an Upgrade]
