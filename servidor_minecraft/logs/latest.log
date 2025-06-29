@@ -623,3 +623,36 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [29Jun2025 00:51:16.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Survival Mode]
 [29Jun2025 00:51:23.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO was slain by RODQUARE110
 [29Jun2025 00:51:34.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Teleported RODQUARE110 to JUANCITO]
+[29Jun2025 00:51:55.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO was slain by RODQUARE110
+[29Jun2025 00:53:43.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODQUARE110 has made the advancement [Sweet Dreams]
+[29Jun2025 00:53:45.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Sweet Dreams]
+[29Jun2025 00:54:43.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO was slain by Zombie
+[29Jun2025 00:54:44.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODQUARE110 was slain by Zombie
+[29Jun2025 00:55:06.489] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: -Azumi-[/127.67.69.45:39251] logged in with entity id 8086 at (6.5, 135.0, -6.5)
+[29Jun2025 00:55:06.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- joined the game
+[29Jun2025 00:55:06.557] [Server thread/INFO] [Jade/]: Syncing config to -Azumi- (517bebbf-7cc1-34b6-bd3c-d10859929ffe)
+[29Jun2025 00:56:04.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO fell from a high place
+[29Jun2025 00:56:18.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODQUARE110 was slain by Zombie
+[29Jun2025 00:56:32.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODQUARE110 has made the advancement [Monster Hunter]
+[29Jun2025 00:57:17.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODQUARE110 has made the advancement [Stone Age]
+[29Jun2025 00:57:21.494] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=32, z=-1}
+[29Jun2025 00:57:23.604] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2, y=35, z=1}
+[29Jun2025 00:57:23.658] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2, y=34, z=1}
+[29Jun2025 00:57:23.958] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=34, z=0}
+[29Jun2025 00:57:24.241] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2, y=34, z=1}
+[29Jun2025 00:57:24.858] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-3, y=35, z=1}
+[29Jun2025 00:57:24.938] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2, y=35, z=1}
+[29Jun2025 00:57:26.709] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2, y=34, z=2}
+[29Jun2025 00:57:26.786] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2, y=35, z=1}
+[29Jun2025 00:57:26.837] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2, y=34, z=1}
+[29Jun2025 00:57:27.559] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2, y=34, z=1}
+[29Jun2025 00:57:27.639] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2, y=35, z=1}
+[29Jun2025 00:57:27.855] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2, y=34, z=1}
+[29Jun2025 00:57:27.908] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-3, y=33, z=1}
+[29Jun2025 00:57:27.986] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-3, y=34, z=1}
+[29Jun2025 00:57:28.489] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2, y=34, z=1}
+[29Jun2025 00:57:45.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Stone Age]
+[29Jun2025 00:58:34.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Getting an Upgrade]
+[29Jun2025 00:59:17.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [Stone Age]
+[29Jun2025 01:00:20.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODQUARE110 was slain by Zombie
+[29Jun2025 01:00:23.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- was doomed to fall by Zombie

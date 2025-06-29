@@ -1,0 +1,34 @@
+{
+  "bunker_down:first_joined_world": {
+    "criteria": {
+      "first_joined_world": "2025-06-29 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-06-29 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2025-06-29 00:55:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:grove": "2025-06-29 00:55:07 +0000",
+      "minecraft:forest": "2025-06-29 00:57:32 +0000"
+    },
+    "done": false
+  },
+  "superbwarfare:main/root": {
+    "criteria": {
+      "0": "2025-06-29 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
